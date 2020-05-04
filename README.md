@@ -10,3 +10,4 @@ Add entry,
 Update entry,
 Delete and Close
 """
+Run the FrontEnd.py file or make an executable using pyinstaller library.
